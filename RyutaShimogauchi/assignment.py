@@ -46,8 +46,16 @@ def assignment4():
     print("increment {}'s age.".format(Yamada.name))
     print('{0.name}:\n\tage:{0.age}\n\tsex:{0.sex}\n\theight:{0.height}\n\tweight:{0.weight}\n'.format(Yamada))
 
+
+def assignment5():
+    A = np.random.randint(0, 10, (3, 3))
+    B = np.random.randint(0, 10, (3, 3))
+    C = np.matmul(A, B)
+    print('A={}\nB={}\nA*B=\n{}'.format(A, B, C))
+
 if __name__ == '__main__':
     assignment1()
     assignment2()
     assignment3()
     assignment4()
+    assignment5()
