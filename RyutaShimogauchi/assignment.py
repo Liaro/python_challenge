@@ -5,9 +5,19 @@ def assignment1():
     listFrom1to10 = list(range(1, 11))
     print('{}'.format(listFrom1to10))
 
+
 def assignment2():
     evenFrom1to10 = list(range(2, 11, 2))
     print('{}'.format(evenFrom1to10))
+
+
+def assignment3():
+    alphabets = ['a', 'b', 'c', 'd', 'e', 'f']
+    intAlphDict = {i: alphabets[i] for i in range(len(alphabets))}
+    print('{}'.format(intAlphDict))
+
+
 if __name__ == '__main__':
     assignment1()
     assignment2()
+    assignment3()
