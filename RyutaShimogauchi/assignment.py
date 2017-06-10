@@ -13,7 +13,7 @@ def assignment2():
 
 def assignment3():
     alphabets = ['a', 'b', 'c', 'd', 'e', 'f']
-    intAlphDict = {i: alphabets[i] for i in range(len(alphabets))}
+    intAlphDict = {i: a for i, a in enumerate(alphabets)}
     print('{}'.format(intAlphDict))
 
 
