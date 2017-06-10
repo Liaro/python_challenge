@@ -14,7 +14,7 @@ python\_challengeの実装です.
 ### 今までの開発経験
 あまりgithubには上げていませんが[自分のアカウント](https://github.com/rysmarie?tab=repositories)を見てください.  
 高専に在籍していたときの卒研で作成したプログラムが[このリポジトリ](https://github.com/kcct-fujimotolab/3DCNN)に上がっています.  
-ディープラーニングのライブラリ・フレームワークはTensorFlow, Chainer, Kerasを使ったことがあります.
+ディープラーニングのライブラリ・フレームワークはTensorFlow, Chainer, Kerasを使ったことがあります.  
 
 ### 中間的な目標
 インターンシップに参加し, 自分がどの程度できるのかを確かめることが現段階での目標です.
