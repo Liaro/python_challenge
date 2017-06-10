@@ -58,7 +58,6 @@ def assignment6():
     a = np.random.randint(1, 10, 5)
     b = np.random.randint(1, 10, 5)
     c = np.dot(a, b) / (np.sqrt(np.sum(a*a)*np.sum(b*b)))
-    print(np.dot(a, b))
     print('a={}\nb={}\ncos of a and b is {}.'.format(a, b, c))
 
 if __name__ == '__main__':
