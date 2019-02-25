@@ -18,6 +18,7 @@ Ishioka Riku
 ・PythonでWebスクレイピング(BeautifulSoup4)  
 ・RubyでWebスクレイピング(Nokogiri)  
 ・Unityで2DのiPhoneアプリ開発（と言ってもチュートリアル程度)  
+.バーチャルユーチューバーの配信システム構築(ボイスチェンジャー含む)(これもチュートリアルを真似ただけだが配信まで行った)  
   
 機械学習関係は始めたばかりで、最近TensorFlowの最初のチュートリアルをやった。  
   
